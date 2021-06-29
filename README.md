@@ -1,5 +1,6 @@
 # Python-exercises
 2 python coding challenge exercises 
+
 Project 1: You are tasked to create an application in Python 3.6 that can perform the following actions:
 
  Take input from the user as an amount in £.
